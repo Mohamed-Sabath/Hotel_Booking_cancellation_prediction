@@ -1,2 +1,2 @@
-# Hotel_Booking_cancelation_prediction
+# Hotel_Booking_cancellation_prediction
 Utilized jupyter notebook to create a Supervised Machine learning model to predict cancellation of hotel bookings based on customers’ attributes and preferences information. Performed data cleaning and preprocessing on Google Collab using pandas. I have used Data balancing technique to balance the imbalanced dataset. Applied `logistic regression, SVM, and Decision tree` algorithms to produce a finalized model. Finalized `decision tree model` with an accuracy of 79.76%.
